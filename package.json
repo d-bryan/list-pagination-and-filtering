@@ -1,0 +1,25 @@
+{
+  "name": "list-pagination-and-filtering",
+  "version": "0.0.1",
+  "description": "Treehouse techdegree project to test my abilities of pagination and filtering",
+  "main": "js/script.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-bryan/list-pagination-and-filtering.git"
+  },
+  "author": "Dylan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-bryan/list-pagination-and-filtering/issues"
+  },
+  "homepage": "https://github.com/d-bryan/list-pagination-and-filtering#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}
