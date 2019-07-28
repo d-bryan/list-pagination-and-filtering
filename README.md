@@ -10,7 +10,7 @@ Pagination solution needs to work with any number of students not just the suppl
 
 ## Grading Requirements:
 
-My goal is to land an exceeds expectations grade for this project, to which the requirements are listed by each grading ruberic below.
+UPDATE - Received Exceeds Expetations
 
 ## No snippets, plugins or libraries:
 
